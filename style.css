@@ -57,6 +57,12 @@ a {
   }
 }
 
+.pmr{
+  font-size: x-small;
+  text-align: center;
+  padding-top: 2%;
+}
+
 /* Hero */
 #hero {
   position: relative;
