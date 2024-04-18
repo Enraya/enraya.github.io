@@ -32,6 +32,8 @@ body {
 #logo {
     width: 20%;
     height: 20%;
+    position: relative;
+    left: 5%;
 }
 
 #etoile {
@@ -64,11 +66,6 @@ a {
   }
 }
 
-.pmr{
-  font-size: x-small;
-  text-align: center;
-  padding-top: 2%;
-}
 
 /* Hero */
 #hero {
