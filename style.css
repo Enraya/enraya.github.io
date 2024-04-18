@@ -34,6 +34,13 @@ body {
     height: 20%;
 }
 
+#etoile {
+  width: 10%;
+  height: 10%;
+  position: relative;
+  left: 34%;
+}
+
 .logozone{
   padding: 5%;
 }
